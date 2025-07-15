@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>texturefiles/car.ktx</file>
+        <file>texturefiles/pattern.pkm</file>
+        <file>texturefiles/car_mips.ktx</file>
+        <file>texturefiles/newlogo_srgb.astc</file>
+        <file>texturefiles/newlogo.astc</file>
+        <file>texturefiles/invalid.ktx</file>
+    </qresource>
+</RCC>
